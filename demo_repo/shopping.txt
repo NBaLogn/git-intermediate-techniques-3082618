@@ -4,9 +4,9 @@ apples
 bananas
 yogurt
 milk
-bread
+wheat bread
 cereal
-12 eggs
+eggs
 bacon
 orange juice
 grapes
