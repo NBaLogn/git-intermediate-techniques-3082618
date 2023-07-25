@@ -1,6 +1,8 @@
 # Git Intermediate Techniques
 This is the repository for the LinkedIn Learning course Git Intermediate Techniques. The full course is available from [LinkedIn Learning][lil-course-url].
 
+asldkfjalsdgjlkasjfh
+
 ![Git Intermediate Techniques][lil-thumbnail-url]
 
 Enhance your Git skillset, and explore intermediate techniques and concepts that can help you work more efficiently with the popular open-source version control software. Instructor Kevin Skoglund shares branch management techniques, like deleting and pruning, and how to use tags to mark important points in the branch history. Learn to use interactive staging to stage small portions of a file, cherry-picking to share commits between branches, patches to share commits with others, and techniques for tracking down problems in your project. Kevin demystifies the rebase command and explains when to choose rebasing over merging.
