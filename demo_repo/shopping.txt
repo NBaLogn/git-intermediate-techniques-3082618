@@ -20,5 +20,4 @@ sugar
 flour
 salsa
 butter
-coffee
 
