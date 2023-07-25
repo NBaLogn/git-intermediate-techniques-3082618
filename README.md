@@ -16,8 +16,6 @@ The repository includes directories for each chapter and video in the course. Yo
 
 ### Instructor
 
-Kevin Skoglund
-
 
 
 
