@@ -22,4 +22,3 @@ salsa
 butter
 coffee
 tomatoes
-pears
